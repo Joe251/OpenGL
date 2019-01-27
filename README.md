@@ -9,4 +9,4 @@
       - e.g, Point:(attr1: 10 bytes, attr2: 12 bytes, attr3: 10 bytes), 32 bytes should be jumped shifting from point1 to point2.<br/>
 ### Shader
 - What is shader: A program run in the GPU, GPU play a major role in performing the graphical tasks<br/>
-**Shader type:** Vertex Shader & Frament Shader
+- **Shader type:** Vertex Shader & Frament Shader
