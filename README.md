@@ -10,3 +10,5 @@
 ### Shader
 - What is shader: A program run in the GPU, GPU play a major role in performing the graphical tasks<br/>
 - **Shader type:** Vertex Shader & Frament Shader
+### Index Buffer
+Using Index Buffer to draw object can save the cost of storing duplicated data, sometimes we need to draw the same point multiple times, instead of storing the duplicated vertices again, we can specific a unique buffer of the positions of the vertices, when drawing an object, all we have to need is to tell the computer the indices of the vertices.<br/>
