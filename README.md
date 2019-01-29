@@ -1,10 +1,10 @@
 # OpenGL
 ## Progress of learning OpenGL
 ### Some helpful websites
-***http://docs.gl/***<br/>
-***https://www.glfw.org/***<br/>
-***http://glew.sourceforge.net/***<br/>
-***http://antongerdelan.net/***<br/><br/>
+* *http://docs.gl/* *<br/>
+* *https://www.glfw.org/* *<br/>
+* *http://glew.sourceforge.net/* *<br/>
+* *http://antongerdelan.net/* *<br/><br/>
 ### Vertex Buffers
 - The GPU should be told the layout of the buffer, like how many values are assigned to X, Y e.t.c. <br/>
 - **!Important:**
